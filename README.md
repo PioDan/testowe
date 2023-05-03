@@ -15,6 +15,8 @@
 - na 100 metrów
 - na 50 metrów
 1. Skok
+- w dal
+- z miejsca 
 #### Matematyka
 1. Ułamki
 1. Procenty
