@@ -11,3 +11,7 @@
 1. Przeroty 
 1. Sprint
 1. Skok
+#### Matematyka
+1. Ułamki
+1. Procenty
+1. Delta
