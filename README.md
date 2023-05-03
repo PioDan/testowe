@@ -1,5 +1,5 @@
 # Nauka
-## Geogrfia
+## Geografia
 1. Morze
 1. Wyspy
 1. Półwyspy
@@ -8,7 +8,7 @@
 1. Postacie
 ```lorem ipsum```
 ### Wychowanie fizyczne
-1. Przeroty 
+1. Przewaroty 
 1. Sprint
 1. Skok
 #### Matematyka
