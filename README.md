@@ -8,7 +8,7 @@
 1. Postacie
 ```lorem ipsum```
 ### Wychowanie fizyczne
-1. Przewaddroty 
+1. Przewroty
 1. Sprint
 1. Skok
 #### Matematyka
